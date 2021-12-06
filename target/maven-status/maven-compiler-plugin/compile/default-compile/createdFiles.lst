@@ -1,0 +1,9 @@
+ui/Controller.class
+ui/Main.class
+parser/DataProcessor.class
+server/ThreadedServer.class
+parser/Food.class
+server/ServerThread.class
+parser/BreakfastMenu.class
+ui/Controller$1.class
+ui/Controller$1$1.class
