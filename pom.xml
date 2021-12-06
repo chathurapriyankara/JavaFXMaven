@@ -47,14 +47,11 @@
                 <version>0.0.6</version>
                 <executions>
                     <execution>
-                        <!-- Default configuration for running -->
-                        <!-- Usage: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>ui.Main</mainClass>
                             <executable>/Library/Java/JavaVirtualMachines/jdk-16.0.1.jdk/Contents/Home/bin/java</executable>
                         </configuration>
-
                     </execution>
                 </executions>
             </plugin>
